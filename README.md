@@ -1,0 +1,2 @@
+# tiny-calculator
+Rules: 
